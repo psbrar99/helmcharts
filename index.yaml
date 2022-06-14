@@ -3,7 +3,7 @@ entries:
   istiod:
   - apiVersion: v1
     appVersion: 1.13.2-tetrate-v0
-    created: "2022-06-14T16:26:24.31986-06:00"
+    created: "2022-06-14T16:34:18.909251-06:00"
     description: Helm chart for istio control plane
     digest: 350916cc8e9738e358b9acea845f7e46182a523ff1db74403a4debb192153162
     icon: https://istio.io/latest/favicons/android-192x192.png
@@ -15,6 +15,6 @@ entries:
     sources:
     - http://github.com/istio/istio
     urls:
-    - https://github.com/psbrar99/helmcharts/charts/istiod-1.13.2-tetrate-v0.tgz
+    - https://github.io/psbrar99/helmcharts/charts/istiod-1.13.2-tetrate-v0.tgz
     version: 1.13.2-tetrate-v0
-generated: "2022-06-14T16:26:24.317246-06:00"
+generated: "2022-06-14T16:34:18.906544-06:00"
